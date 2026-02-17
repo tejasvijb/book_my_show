@@ -66,6 +66,20 @@ One Show → Exactly One Language
 
 **Store the language_id in shows table**
 
+## 7. Defining relationship between Format and Show.
+
+One Format → Many Shows
+
+One Show → Exactly One Format
+
+**Cardinality -> Format:Show -> 1:M**
+
+**Store the format_id in show table**
+
+
+
+
+
 
 
 

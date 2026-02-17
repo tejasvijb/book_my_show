@@ -74,6 +74,8 @@ screen_id
 
 language_id
 
+format_id
+
 ## movie_actor
 
 movie_id	

@@ -14,3 +14,5 @@
 
 8. A show is scheduled on a specific date and time.
 
+9. A screen can have multiple formats available for shows.
+

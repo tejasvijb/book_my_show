@@ -1,0 +1,16 @@
+A theatre has multiple screens.
+
+A screen has multiple shows.
+
+Each show runs one movie.
+
+A movie can have multiple actors.
+
+An actor can act in multiple movies.
+
+A movie can be available in multiple languages.
+
+Each show runs in one language and one format.
+
+A show is scheduled on a specific date and time.
+

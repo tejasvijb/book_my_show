@@ -1,16 +1,16 @@
-A theatre has multiple screens.
+1. A theatre has multiple screens.
 
-A screen has multiple shows.
+2. A screen has multiple shows.
 
-Each show runs one movie.
+3. Each show runs one movie.
 
-A movie can have multiple actors.
+4. A movie can have multiple actors.
 
-An actor can act in multiple movies.
+5. An actor can act in multiple movies.
 
-A movie can be available in multiple languages.
+6. A movie can be available in multiple languages.
 
-Each show runs in one language and one format.
+7. Each show runs in one language and one format.
 
-A show is scheduled on a specific date and time.
+8. A show is scheduled on a specific date and time.
 
